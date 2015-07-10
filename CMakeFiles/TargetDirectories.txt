@@ -1,0 +1,6 @@
+/Users/hc/Documents/mqtt/src/CMakeFiles/mosquitto_passwd.dir
+/Users/hc/Documents/mqtt/lib/cpp/CMakeFiles/mosquittopp.dir
+/Users/hc/Documents/mqtt/src/CMakeFiles/mosquitto.dir
+/Users/hc/Documents/mqtt/client/CMakeFiles/mosquitto_pub.dir
+/Users/hc/Documents/mqtt/lib/CMakeFiles/libmosquitto.dir
+/Users/hc/Documents/mqtt/client/CMakeFiles/mosquitto_sub.dir
